@@ -49,3 +49,24 @@ order-section{
     border-radius: 40px;
     box-shadow:5px 5px 10px gray;
 }
+
+
+.third-section{
+    text-align: center;
+
+}
+
+.recepi-area{
+    display:flex;
+
+}
+.image-width{
+    width:25%;
+    padding: 15px;
+    border:10px;
+    margin:2%;
+    border-radius: 50px;
+   box-shadow: 3px 3px 6px 10px gray;
+
+    
+}
