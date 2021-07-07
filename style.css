@@ -16,9 +16,35 @@ h1{
 .first-width{
     width:50%;
 }
-.order-center{
+order-section{
     text-decoration: none;
     background-color:goldenrod;
+    padding:15px 40px;
+    border-radius: 40px;
+    box-shadow:5px 5px 10px gray;
+}
+.second-section{
+    display:flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    margin-top:5%;
+    padding-right: 5px;
+    
+
+
+}
+.second-width{
+    padding: 50px;
+    
+    
+}
+.second-width-image{
+    width:40px;
+    padding-right: 80px;
+}
+.contact-button{
+    text-decoration: none;
+    color:white;
+    background-color: indianred;
     padding:15px 40px;
     border-radius: 40px;
     box-shadow:5px 5px 10px gray;
