@@ -16,9 +16,9 @@ h1{
 .first-width{
     width:50%;
 }
-order-section{
-    text-decoration: none;
-    background-color:goldenrod;
+.order-center{ 
+    text-decoration:none;
+    background-color: indianred;
     padding:15px 40px;
     border-radius: 40px;
     box-shadow:5px 5px 10px gray;
@@ -69,4 +69,13 @@ order-section{
    box-shadow: 3px 3px 6px 10px gray;
 
     
+}
+footer p{
+    text-align: center;
+}
+.footer-color{
+    color:red;
+}
+
+
 }
