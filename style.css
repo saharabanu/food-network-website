@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.title-color{
+    color:chocolate;
+}
+.first-section{
+    display:flex;
+    margin-top:15%;
+    margin-left:8%;
+    
+}
+.first-width{
+    width:50%;
+}
+.order-center{
+    text-decoration: none;
+    background-color:goldenrod;
+    padding:15px 40px;
+    border-radius: 40px;
+    box-shadow:5px 5px 10px gray;
+}
